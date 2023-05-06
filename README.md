@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DineshAtom
-- 👀 I’m interested in Machinelearning
+- 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning python, android Developement, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me: Dink.learn@outlook.com 

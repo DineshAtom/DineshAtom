@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dinesh
+- 🤖 I’m a Software Engineer in Test 
 - 👀 I’m interested in Machine learning
-- 🌱 I’m currently working as a Test Automation Engineer 
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me: Dink.learn@outlook.com 
 

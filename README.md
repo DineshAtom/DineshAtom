@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dinesh
 - 🤖 I’m a Software Engineer in Test 
 - 👀 I’m interested in Machine learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Django Web application developement, Test automation project, ML projects
 - 📫 reach me: Dink.learn@outlook.com 
 
 <!---
